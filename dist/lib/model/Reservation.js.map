@@ -1,0 +1,1 @@
+{"version":3,"file":"Reservation.js","sourceRoot":"","sources":["../../../src/model/Reservation.ts"],"names":[],"mappings":";AAwEA,IAAiB,WAAW,CAK3B;AALD,WAAiB,WAAW,EAAC,CAAC;IAC1B,WAAY,QAAQ;QAChB,gCAAiB,UAAU,cAAA,CAAA;QAC3B,8BAAe,QAAQ,YAAA,CAAA;IAC3B,CAAC,EAHW,oBAAQ,KAAR,oBAAQ,QAGnB;IAHD,IAAY,QAAQ,GAAR,oBAGX,CAAA;AACL,CAAC,EALgB,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAK3B"}

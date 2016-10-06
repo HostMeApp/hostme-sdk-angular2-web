@@ -1,0 +1,20 @@
+{
+  "name": "hostme-sdk-angular2-web",
+  "version": "1.1.27",
+  "description": "HostMe angular2 SDK for Web APIs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HostMeApp/hostme-sdk-angular2-web.git"
+  },
+  "main": [ "./dist/lib/umd.js" ],
+  "dependencies": {
+    "@angular/core": "^2.0.0-rc.5",
+    "@angular/http": "^2.0.0-rc.5",
+    "@angular/common": "^2.0.0-rc.5",
+    "@angular/compiler": "^2.0.0-rc.5",
+    "core-js": "^2.4.0",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "5.0.0-beta.6",
+    "zone.js": "^0.6.17"
+  }
+}
